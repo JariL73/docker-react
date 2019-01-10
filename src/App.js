@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edited <code>src/App.js</code> and reloaded 3.
+            Elastic Beanstalk Rocks!
           </p>
           <a
             className="App-link"
